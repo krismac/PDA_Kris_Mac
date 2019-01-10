@@ -2,9 +2,8 @@
 
 This repository contains a submission for the Professional Development Award for Software Development as awarded by the Scottish Qualifications Authority (SQA).
 
-
 ### Cognitive tests 
-4 Exams completed under exam conditions: 
+4 Exams completed under exam conditions - completed under exam conditions (16/11/2018)
 
 - Analysis and Design Part 1
 - Analysis and Design Part 2
